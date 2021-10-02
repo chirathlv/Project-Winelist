@@ -66,7 +66,7 @@ The following data cleanse rules have been applied to the source data set:
 Age, education, marital status and income values from the cleansed data set have been used to analyse customers. Bar, Pie and Sunburst visualisation tools have been used to represent the data set. 
 
 Below is the visual representation of the analysis:
-![SCP1- Total Wine Sales per Income Bracket ](./Images/Total Wine Sales per Income Bracket.png)
+![SCP1- Total Wine Sales per Income Bracket ](https://github.com/chirathlv/Project1/blob/Renu/Images/Total%20Sales%20based%20on%20Education%20per%20Marital%20Stat.PNG)
 ![SCP1- Wine consumption based on Age Groups ](./Images/Wine consumption based on Age Groups.png)
 ![SCP1- Wine consumption based on Marital Stats ](./Images/Wine consumption based on Marital Stats.png)
 ![SCP1- Total Sales based on Education per Marital Stat ](./Images/Wine consumption based on Marital Stats.png)
