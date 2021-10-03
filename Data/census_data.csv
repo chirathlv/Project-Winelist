@@ -1,0 +1,142 @@
+Marital_Pop,Income,Age_Pop,County,State,Education_Pop
+44.1,64495,13.2,Jefferson, Kentucky,74.4
+47.1,85434,15.0,Hennepin, Minnesota,84.5
+48.6,57972,13.7,Sedgwick, Kansas,68.0
+45.7,80766,11.4,Allegheny, Pennsylvania,82.0
+54.8,104728,16.0,Chester, Pennsylvania,84.0
+47.8,90571,12.8,St., Missouri,79.5
+44.7,60722,12.2,Jackson, Missouri,68.7
+56.6,102327,18.7,Collin, Texas,84.69999999999999
+51.5,76660,15.9,Williamson, Texas,78.10000000000001
+46.7,89141,14.6,Harris, Texas,75.6
+44.4,80813,13.8,Dallas, Texas,75.8
+57.6,106239,15.1,Montgomery, Texas,73.9
+51.7,75104,16.0,Will, Illinois,71.30000000000001
+44.6,82731,12.3,Oklahoma, Oklahoma,68.1
+48.8,86180,15.7,Tarrant, Texas,75.0
+49.9,126476,15.8,Fairfield, Connecticut,84.0
+42.1,71318,15.1,Duval, Florida,66.80000000000001
+46.8,59288,13.4,Brevard, Florida,66.2
+43.0,66946,14.6,Pinellas, Florida,65.1
+43.0,55029,13.0,Polk, Florida,55.6
+43.0,80936,16.0,Orange, Florida,69.5
+41.3,72965,14.9,Multnomah, Oregon,84.5
+53.4,102785,15.0,Montgomery, Pennsylvania,84.2
+53.5,67306,14.2,Lancaster, Pennsylvania,65.10000000000001
+51.5,82723,14.0,Salt, Utah,78.3
+44.3,65833,15.0,Jefferson, Alabama,75.60000000000001
+42.5,79108,16.2,Broward, Florida,68.7
+43.5,71794,15.9,Hillsborough, Florida,69.10000000000001
+47.5,84287,13.4,Sonoma, California,82.6
+49.0,106423,13.5,Alameda, California,84.6
+42.6,92385,12.8,Los, California,80.5
+52.0,122982,12.5,Santa, California,86.30000000000001
+52.3,90695,15.1,Jefferson, Colorado,81.3
+49.7,63958,14.6,Adams, Colorado,68.6
+52.8,76095,12.9,El, Colorado,78.2
+49.5,85606,15.4,Arapahoe, Colorado,79.7
+44.4,81970,15.5,New, Delaware,67.6
+38.7,75082,11.8,Providence, Rhode Island,71.10000000000001
+49.8,66334,15.0,Greenville, South Carolina,79.1
+46.1,85274,13.2,Palm, Florida,74.19999999999999
+43.3,77665,16.0,Miami-Dade, Florida,71.8
+50.9,70164,12.0,Lee, Florida,64.1
+53.3,107468,17.0,Monmouth, New Jersey,77.0
+42.9,94326,15.3,Essex, New Jersey,69.5
+44.9,88196,17.1,Passaic, New Jersey,74.9
+53.9,111881,15.0,Bergen, New Jersey,79.6
+46.9,94150,12.9,Delaware, Pennsylvania,77.6
+52.8,79612,17.5,Gwinnett, Georgia,78.69999999999999
+41.1,72036,12.7,Bernalillo, New Mexico,78.30000000000001
+30.9,69185,8.0,Bronx, New York,58.0
+42.1,85902,9.2,Kings, New York,83.8
+51.1,140686,15.6,Westchester, New York,84.30000000000001
+43.8,67322,12.9,Monroe, New York,72.1
+51.6,88312,15.0,Washington, Oregon,79.6
+54.7,102485,15.0,Bucks, Pennsylvania,76.9
+46.7,77186,14.8,Maricopa, Arizona,74.3
+38.2,72684,17.7,DeKalb, Georgia,80.30000000000001
+50.4,56522,16.1,Pasco, Florida,59.0
+46.4,60148,13.7,Volusia, Florida,59.5
+44.4,89125,15.8,Mecklenburg, North Carolina,82.8
+42.5,67393,16.7,Guilford, North Carolina,74.0
+39.0,74555,14.6,Shelby, Tennessee,67.30000000000001
+41.2,74472,12.4,Davidson, Tennessee,82.2
+46.4,84732,9.0,Queens, New York,76.0
+34.4,144620,11.3,New, New York,93.0
+52.4,124429,10.4,Nassau, New York,76.19999999999999
+50.5,107233,16.5,Suffolk, New York,75.89999999999999
+44.2,73205,11.3,Erie, New York,68.6
+26.8,65437,13.3,Baltimore, Maryland,72.9
+50.6,89964,17.1,Plymouth, Massachusetts,81.4
+52.4,110475,15.1,Norfolk, Massachusetts,88.0
+50.6,89633,17.6,Wake, North Carolina,85.0
+46.4,70186,12.6,Summit, Ohio,67.2
+42.5,59358,12.4,Montgomery, Ohio,67.5
+42.9,76413,12.0,Hamilton, Ohio,70.9
+42.9,67680,13.4,Franklin, Ohio,74.8
+52.0,87717,16.4,Snohomish, Washington,74.1
+39.1,109868,18.1,Fulton, Georgia,85.19999999999999
+48.6,96582,10.7,Honolulu, Hawaii,81.7
+56.2,92654,15.9,Johnson, Kansas,83.9
+39.7,66204,11.2,Cuyahoga, Ohio,67.5
+47.5,76753,14.7,Tulsa, Oklahoma,70.5
+41.1,67728,14.1,Bexar, Texas,75.30000000000001
+52.6,93220,18.4,Denton, Texas,80.1
+45.8,96189,15.3,Travis, Texas,86.7
+38.8,84383,14.9,Prince, Maryland,67.9
+54.0,109289,15.4,Anne, Maryland,79.6
+45.6,90009,15.9,Baltimore, Maryland,76.1
+52.1,129358,14.3,Montgomery, Maryland,87.8
+30.7,107326,8.2,Suffolk, Massachusetts,88.5
+49.9,115235,13.2,Middlesex, Massachusetts,91.0
+46.1,73042,14.4,Bristol, Massachusetts,68.1
+48.2,95474,17.3,Essex, Massachusetts,86.1
+48.9,84019,16.2,Worcester, Massachusetts,75.6
+52.5,119804,15.0,Contra, California,83.5
+46.3,66035,11.9,Stanislaus, California,61.400000000000006
+45.5,75557,13.6,Sacramento, California,73.8
+38.7,109968,13.5,San, California,91.69999999999999
+47.9,91965,12.9,San, California,81.3
+47.3,77961,11.7,Riverside, California,70.7
+45.6,76196,11.8,San, California,65.7
+48.2,65169,13.5,Macomb, Michigan,64.2
+50.2,87977,18.0,Cobb, Georgia,82.8
+57.5,91895,17.2,Fort, Texas,82.19999999999999
+57.9,81316,11.2,Utah, Utah,85.69999999999999
+50.7,89004,13.4,Oakland, Michigan,80.0
+37.6,64280,12.5,Wayne, Michigan,56.9
+42.8,72572,13.9,Ramsey, Minnesota,80.4
+38.2,69082,12.3,Marion, Indiana,63.7
+48.1,78910,14.0,Douglas, Nebraska,74.8
+55.5,133183,15.1,Fairfax, Virginia,92.19999999999999
+48.9,74279,14.1,Spokane, Washington,74.1
+50.0,105464,15.1,King, Washington,86.5
+48.7,77506,13.7,Pierce, Washington,69.5
+44.0,69360,14.0,Clark, Nevada,64.7
+37.8,59779,13.9,Milwaukee, Wisconsin,65.0
+44.2,72806,12.3,Fresno, California,66.89999999999999
+45.2,78001,11.9,Kern, California,61.8
+50.1,105902,13.4,Orange, California,81.5
+49.0,100165,12.8,Ventura, California,82.0
+52.4,132121,12.5,San, California,89.4
+47.6,81239,11.1,San, California,62.5
+39.4,82372,12.7,Denver, Colorado,86.8
+55.6,96923,16.6,DuPage, Illinois,85.5
+41.9,82582,12.2,Cook, Illinois,78.1
+51.8,82589,20.0,Kane, Illinois,74.5
+54.0,105698,15.7,Lake, Illinois,82.9
+51.8,75920,11.7,Ocean, New Jersey,60.099999999999994
+53.3,96190,11.9,Middlesex, New Jersey,70.5
+45.0,90189,13.9,Camden, New Jersey,65.10000000000001
+48.3,100081,15.9,Union, New Jersey,71.5
+44.2,83497,10.2,Hudson, New Jersey,81.19999999999999
+46.4,77379,13.1,Dane, Wisconsin,86.69999999999999
+48.8,76878,11.8,Kent, Michigan,74.5
+29.9,119292,9.5,District, District of Columbia,88.19999999999999
+42.3,86470,12.8,New, Connecticut,71.5
+45.1,89080,14.7,Hartford, Connecticut,74.4
+44.1,59653,11.6,Pima, Arizona,74.0
+30.9,61265,9.4,Philadelphia, Pennsylvania,70.0
+48.2,53599,12.7,Hidalgo, Texas,57.5
+42.9,48268,10.7,El, Texas,69.5
