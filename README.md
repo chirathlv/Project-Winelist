@@ -25,18 +25,18 @@ Winelist Corporation, a subsidiary of a boutique grocery chain based in US, has 
 Winelist Corporation has provided the following data:
 [Winelist Corporation](https://www.kaggle.com/c/winwinewine/data)
 
-Additionally, the American Census data has been sourced using API [American Census Data](https://www.forbes.com/advisor/banking/digit-budgeting-app-review/)
+Additionally, the American Census data has been sourced using API [American Census Data]()
 
 ### Technology Stack <a name="subparagraph2"></a>
 
 The following technologies have been used in developing this solution:
 - Python libraries and code
-- Pandas libraries including Census ???
+- Pandas libraries including Census and Geo librar ???
 - hvPlot
 - Plotly Express
-- MapBox
+- MapBox/API
 - Panel
-- API
+- Census API 
 - Panel
 
 ### Coding and Release Standards <a name="subparagraph3"></a>
@@ -55,7 +55,7 @@ Following rules must be applied during code development and testing:
 ## Data Cleanse and Visualisation <a name="paragraph3"></a>
 ### Data Cleanse <a name="subparagraph4"></a>
 
-The following data cleanse rules will be applied to the source data set:
+The following data cleanse rules will be applied to the source marketing data set:
 1. Identified data set must be formatted correctly prior to use- Date format dd/mm/yyyy, amount must be integer.
 2. Calculate age from birth year and not greater than 100 years.3. 
 3. Redundant data, if any, must be dropped- drop columns Z_CostContact', 'Z_Revenue', 'Response', 'MntGoldProds'.
@@ -66,6 +66,14 @@ The following data cleanse rules will be applied to the source data set:
 8. Group records into appropriate sub categories- Age in steps of 10 years, Income in steps of $10k
 9. Ensure records are sorted on the required fields.
 10. Validate that entire data set has been correctly loaded.
+
+Additionally the following data cleanse rules will be applied to tyhe Census data:
+- Extract only the fields that are required.
+- Extract only the top 5% population data that meets target customer criteria values/ ranges.
+- Extract required data set by state/ county.
+- Extract the longitude and latitude information for the identified counties.
+- Drop all other information.
+- Check for duplicates.
 
 ### Analysis- Customer Segmentation <a name="subparagraph5"></a>
 __SCP1- Which customer segment provides the maximum sales?__
