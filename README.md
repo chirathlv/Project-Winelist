@@ -47,7 +47,7 @@ The following technologies have been deployed:
 - geopy 2.2.0: https://pypi.org/project/geopy/
 - Census API Key: https://api.census.gov/data/key_signup.html
 - Map Box API key: https://docs.mapbox.com/help/getting-started/access-tokens/
-- Python custom helper code to load latitudes/longitudes (geocdes.py)
+- Python custom helper code to load latitudes/longitudes (geocdes.py): Included in this Repo
 
 ### Coding and Release Standards <a name="subparagraph3"></a>
 
