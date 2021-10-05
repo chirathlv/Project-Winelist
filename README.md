@@ -98,8 +98,8 @@ Analysis:
 - It also seems that Winelist does not have customers in the higher income range of $100k and above.
 
 Below is the visual representation of the analysis:
-![Total Wine Sales per Income Bracket](https://github.com/chirathlv/Project1/blob/Renu/Images/Total%20Wine%20Sales%20per%20Income%20Bracket.png)
-![Wine consumption based on Age Groups](https://github.com/chirathlv/Project1/blob/Renu/Images/Wine%20consumption%20based%20on%20Age%20Groups.png)
+![Total Wine Sales per Income Bracket](https://github.com/chirathlv/Project1/blob/main/Images/Total%20Wine%20Sales%20per%20Income%20Bracket.png)
+![Wine Customers based on Age Groups](https://github.com/chirathlv/Project1/blob/main/Images/Wine%20sales%20based%20on%20age%20groups.png)
 ![Wine consumption based on Marital Status](https://github.com/chirathlv/Project1/blob/Renu/Images/Wine%20consumption%20based%20on%20Marital%20Stats.png)
 ![Total Sales based on Education per Marital Status](.https://github.com/chirathlv/Project1/blob/Renu/Images/Total%20Sales%20based%20on%20Education%20per%20Marital%20Stat.PNG)
 ![Wine consumption based on Marital Status and Age Group](https://github.com/chirathlv/Project1/blob/Renu/Images/Wine%20consumption%20based%20on%20Marital%20Status%20and%20Age%20Group.png)
