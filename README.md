@@ -154,6 +154,10 @@ Since campaign 5 appears to be the most effective, the company should use this t
 
 **SCP5- Based on customer and sales analysis overlaid with Census data, identify target markets**
 
+![Top Wine States](https://github.com/chirathlv/Project1/blob/main/Images/Top%20wine%20states.png)
+
+![Top Wine Counties](https://github.com/chirathlv/Project1/blob/main/Images/Top%20wine%20counties.png)
+
 ## References <a name="paragraph4"></a>
 
 1. [(https://www.kaggle.com/)]
