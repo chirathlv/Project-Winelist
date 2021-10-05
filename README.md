@@ -33,6 +33,7 @@ Additionally, the American Census data has been sourced using API [American Cens
 
 The following technologies have been deployed:
 
+- python 3.8.3
 - pandas 1.0.5
 - numpy 1.18.5
 - python-dotenv 0.19.0
@@ -42,6 +43,7 @@ The following technologies have been deployed:
 - plotly 5.3.1
 - hvplot 0.7.3
 - matplotlib 3.2.2
+- jupyter lab 2.1.5
 - geopy 2.2.0: https://pypi.org/project/geopy/
 - Census API Key: https://api.census.gov/data/key_signup.html
 - Map Box API key: https://docs.mapbox.com/help/getting-started/access-tokens/
