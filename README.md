@@ -102,7 +102,7 @@ Below is the visual representation of the analysis:
 ![Wine Customers based on Age Groups](https://github.com/chirathlv/Project1/blob/main/Images/Wine%20consumption%20based%20on%20age%20groups.png)
 ![Wine Sales based on Marital Status](https://github.com/chirathlv/Project1/blob/main/Images/Wine%20sales%20based%20on%20marital%20status.png)
 ![Total Sales based on Education per Marital Status](https://github.com/chirathlv/Project1/blob/main/Images/Wine%20sales%20based%20on%20education%20and%20mstatus.png)
-![Wine consumption based on Marital Status and Age Group](https://github.com/chirathlv/Project1/blob/main/Images/Wine%20sales%20based%20on%20marital%20status%20and%20age%20group.png)
+![Wine consumption based on Marital Status and Age Group](https://github.com/chirathlv/Project1/blob/main/Images/Wine%20consumption%20based%20on%20marital%20status%20and%20age%20group.png)
 ![Wine Sales based on Education and Income Bracket](https://github.com/chirathlv/Project1/blob/main/Images/Wine%20Sales%20based%20on%20Education%20and%20Income%20Bracket.png)
 
 **SCP2- Which product in the food basket best aligns with wine consumption?**
