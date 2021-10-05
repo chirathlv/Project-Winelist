@@ -99,10 +99,10 @@ Analysis:
 
 Below is the visual representation of the analysis:
 ![Total Wine Sales per Income Bracket](https://github.com/chirathlv/Project1/blob/main/Images/Total%20Wine%20Sales%20per%20Income%20Bracket.png)
-![Wine Customers based on Age Groups](https://github.com/chirathlv/Project1/blob/main/Images/Wine%20sales%20based%20on%20age%20groups.png)
-![Wine consumption based on Marital Status](https://github.com/chirathlv/Project1/blob/Renu/Images/Wine%20consumption%20based%20on%20Marital%20Stats.png)
-![Total Sales based on Education per Marital Status](.https://github.com/chirathlv/Project1/blob/Renu/Images/Total%20Sales%20based%20on%20Education%20per%20Marital%20Stat.PNG)
-![Wine consumption based on Marital Status and Age Group](https://github.com/chirathlv/Project1/blob/Renu/Images/Wine%20consumption%20based%20on%20Marital%20Status%20and%20Age%20Group.png)
+![Wine Customers based on Age Groups](https://github.com/chirathlv/Project1/blob/main/Images/Wine%20consumption%20based%20on%20age%20groups.png)
+![Wine Sales based on Marital Status](https://github.com/chirathlv/Project1/blob/main/Images/Wine%20sales%20based%20on%20marital%20status.png)
+![Total Sales based on Education per Marital Status](https://github.com/chirathlv/Project1/blob/main/Images/Wine%20sales%20based%20on%20education%20and%20marital%20status.png)
+![Wine consumption based on Marital Status and Age Group](https://github.com/chirathlv/Project1/blob/main/Images/Wine%20sales%20based%20on%20marital%20status%20and%20age%20group.png)
 
 **SCP2- Which product in the food basket best aligns with wine consumption?**
 This section analyses the customer Food Basket to understand the products associated with wine purchases.
@@ -110,7 +110,7 @@ This section analyses the customer Food Basket to understand the products associ
 Analysis:
 Based on below, customer who buys Wine generally purchases meat. Thsi association maybe used to develop product tie in campaigns.
 
-![Food Basket Comparison](https://github.com/chirathlv/Project1/blob/Renu/Images/Food basket comparison.png)
+![Food Basket Comparison](https://github.com/chirathlv/Project1/blob/main/Images/Food%20basket%20comparison.png)
 
 ### Analysis- Channel Effectiveness <a name="subparagraph6"></a>
 
@@ -121,7 +121,7 @@ Analysis:
 
 - It can be said that instore sales are higher than sales through company website. Note that the data set is pre Covid 19.
 
-![Website versus Instore sales](https://github.com/chirathlv/Project1/blob/Renu/Images/Channel performance stores versus website.png)
+![Website versus Instore sales](https://github.com/chirathlv/Project1/blob/main/Images/Channel%20performance%20stores%20versus%20website.png)
 
 ### Analysis- Campaign Effectivenes <a name="subparagraph7"></a>
 
@@ -133,9 +133,9 @@ Analysis:
 - Campaign 5 was the most effective in successfully concluding with a sale on either channel.
 - Catalogs seem to be more effective in bringing in customers to stores
 
-![Effectiveness- Marketing campaigns](https://github.com/chirathlv/Project1/blob/Renu/Images/Campaigns.png)
+![Effectiveness- Marketing campaigns](https://github.com/chirathlv/Project1/blob/main/Images/Total%20Sales%20generated%20for%20past%20Marketing%20Campaigns.png)
 
-![Comparison- Deals versus Catalogs](https://github.com/chirathlv/Project1/blob/Renu/Images/Deals versus catalog.png)
+![Comparison- Deals versus Catalogs](https://github.com/chirathlv/Project1/blob/main/Images/Channel%20Performance%20-%20Deals%20vs%20Catalogs.png)
 
 ### Key Findings <a name="subparagraph8"></a>
 
