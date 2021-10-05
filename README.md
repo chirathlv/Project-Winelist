@@ -161,5 +161,5 @@ Since campaign 5 appears to be the most effective, the company should use this t
 
 ## References <a name="paragraph4"></a>
 
-1. [(https://www.kaggle.com/)]
-2. [(https://api.census.gov/data/)]
+1. https://www.kaggle.com/
+2. https://api.census.gov/data/
