@@ -1,4 +1,4 @@
-[Winelist Corporation](https://github.com/chirathlv/Project-Winelist/blob/main/Images/wine_banner.jpg)
+![Winelist Corporation](https://github.com/chirathlv/Project-Winelist/blob/main/Images/wine_banner.jpg)
 
 # Table of Contents
 
